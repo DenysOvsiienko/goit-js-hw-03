@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 function filterArray(numbers, value) {
   const newArray = [];
   for (let i = 0; i < numbers.length; i++) {
